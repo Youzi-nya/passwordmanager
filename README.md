@@ -2,6 +2,7 @@
 ## 如何运行
 
 后端:配置好`db.js`文件，然后运行
+>数据库使用的是mysql,表名一个是users，一个是acounts，得自己创建，之前经常用的navicat因为太久没用烂了，数据库创建删除什么的都是手打的QAQ
 ```
 npm install
 node server.js
